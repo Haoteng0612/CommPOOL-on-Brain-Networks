@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="723761a3-01ca-417c-bdd6-33431daa8beb" name="Lab-local">
+        <fileTransfer rootFolder="/home/tht/graph/ISBI21" accessType="SFTP" host="10.220.15.153" port="22" sshConfigId="25af9942-18b9-4203-9af0-fe68084fdff4" sshConfig="tht@10.220.15.153:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
